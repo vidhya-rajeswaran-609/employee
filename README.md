@@ -23,7 +23,7 @@ Open [https://localhost:44352/api/employee](https://localhost:44352/api/employee
 ![Screenshot](api.png)
 <br />
 
-### STEP 2 : API - run postman collection
+### STEP 3 : API - run postman collection
 
 Import the postman collection `employee.postman_collection.json` from the employee/prep folder.
 <br />
@@ -31,15 +31,7 @@ Import the postman collection `employee.postman_collection.json` from the employ
 The api url points to localhost. The collection has requests for employee and roles controller.
 <br />
 
-### STEP 2 : API - run postman collection
-
-Import the postman collection `employee.postman_collection.json` from the employee/prep folder.
-<br />
-
-The api url points to localhost. The collection has requests for employee and roles controller.
-<br />
-
-### STEP 3 : UI - open employee in code editor
+### STEP 4 : UI - open employee in code editor
 
 navigate to `cd ui` 
 <br />
@@ -55,7 +47,7 @@ run  `npm start` . This starts the ui on [https://localhost:3000](https://localh
 
 ![Screenshot](ui.png)
 
-### STEP 4 : Run tests
+### STEP 5 : Run tests
 
 for API, cd test project and run the test suite in employee/api/CompanyEmployee.Test
 <br />
