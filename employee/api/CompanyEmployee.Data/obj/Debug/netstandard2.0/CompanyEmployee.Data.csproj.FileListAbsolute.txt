@@ -1,0 +1,13 @@
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\bin\Debug\netstandard2.0\CompanyEmployee.Data.deps.json
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\bin\Debug\netstandard2.0\CompanyEmployee.Data.dll
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\bin\Debug\netstandard2.0\CompanyEmployee.Data.pdb
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\bin\Debug\netstandard2.0\CompanyEmployee.Common.dll
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\bin\Debug\netstandard2.0\CompanyEmployee.Common.pdb
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.csproj.AssemblyReference.cache
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.AssemblyInfoInputs.cache
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.AssemblyInfo.cs
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.csproj.CoreCompileInputs.cache
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.csproj.CopyComplete
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.dll
+C:\Users\vidhyarajeswaran\Downloads\Company-Employee-master\Company-Employee-master\CompanyEmployee.Data\obj\Debug\netstandard2.0\CompanyEmployee.Data.pdb
